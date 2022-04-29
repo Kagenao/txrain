@@ -1,6 +1,8 @@
-# txrain - keine Ahnung
+# txrain - Multi-Clipboard Manager
 
-Du suchst nach einer App die einen bestimmten Nutzen hat? Tja, pech! Ich weiß selbst nicht was genau ich mit dieser App anstellen möchte, noch weiß ich mit welcher Programmiersprache ich das anstellen werde. Aber mal schauen, nh?
+<p>
+Ein kleines Projekt meinerseits, welches kläglich versucht nützlich zu sein. Möglich ist das Speichern und Laden von in deinem Clipboard gespeicherten Texten.
+</p>
 
 
 
